@@ -5,3 +5,7 @@ Colabs desenvolvidos no módulo 05, do curso Data Analytics da WoMakers Code, on
 # Numpy
 
 # Pandas
+
+# Data Wranglin
+
+# Sklearn Pipelines
