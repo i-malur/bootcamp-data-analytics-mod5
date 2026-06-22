@@ -52,3 +52,10 @@ Colabs desenvolvidos no módulo 05, do curso Data Analytics da WoMakers Code, on
 # Sklearn Pipelines
 * Usando api do gov com dados de ementas 2025 para estudo de caso das ementas paralamentares de 2025 [Portal da Transparência](https://api.portaldatransparencia.gov.br/swagger-ui/index.html#/Emendas%20parlamentares/emendas)
 * Usamos todos os conhecimentos das aulas anteriores e depois realizamos uma automatização
+
+## Tecnologias usadas:
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
